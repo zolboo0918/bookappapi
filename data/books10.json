@@ -1,0 +1,2733 @@
+[
+  {
+    "id": "651",
+    "title": "Хорин жилийн хойно I",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=651",
+    "web_link": "https://mplus.mn/@public-found/book/xorin-ziliin-xoino-i",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52375/5f15571d_977f77_0.68.jpg",
+    "slug": "xorin-ziliin-xoino-i",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "6980",
+    "description": "Дюмагийн зохиол бүтээл дэх баатруудын уужуу тайван сэтгэл, хайр дурлал, үерхэл нөхөрлөлдөө үнэнч чанар, хөгжилтэй бичлэгийн арга барил нь уншигчдын сонирхлыг татаж, гурамсан романыг дуусан дуустал уяж чаддаг билээ. \"Хорин жилийн хойно\" романд Атос, Портос, Д'Артаньян нарын нас дөч гарсан хэдий ч цэл залуугийнхаасаа дутахгүй эр зориг гаргаж, элдэв адал явдалд орооцолддог. Тэдний адилаар Атосын хүү Раул идэр насаа алдар гавьяаны төлөө зориулахаар шийдэж түүнийхээ төлөө тууштай зүтгэнэ. Дюма амьдарч, аж төрж асан үеийнхээ гол үйл явдлуудын гүнд орж, хувьсгалд оролцож явжээ. Тэрээр зохиолынхоо сэдэв санааг хаана л явна тэр газраасаа олдог гэж ярьсан байдаг. Тиймээс л түүний баатрууд олон үеийн уншигчдын сэтгэлд бодит хүмүүс лугаа мөнхөрч үлдсэн биз ээ.",
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 539,
+      "title": "Хорин жилийн хойно I [Унших]",
+      "price": 0,
+      "size": 2841657,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/651/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/651/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 87
+  },
+  {
+    "id": "650",
+    "title": "Дэлхийн бяцхан түүх",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=650",
+    "web_link": "https://mplus.mn/@g-lkhagvadulam/book/delxiin-byacxan-tuux",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52373/5f15571b_748080_0.68.jpg",
+    "slug": "delxiin-byacxan-tuux",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": 65,
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 538,
+      "title": "Дэлхийн бяцхан түүх [Унших]",
+      "price": 8000,
+      "size": 2035368,
+      "updated_at": "2020-07-21",
+      "download_url": "",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": false,
+      "purchased": false,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/650/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "10",
+        "type": "book",
+        "slug": "history",
+        "name": "Түүх",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/history/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/history/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/history/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "32",
+      "name": "Г.Лхагвадулам",
+      "title": "Яруу найрагч, орчуулагч",
+      "description": "Америкийн яруу найрагч Эмили Дикинсоны шүлгийн түүврийн \"Орчлонд илгээх захидал\" нэрээр, Альбер Камюгийн \"Хөндлөнгийн хүн\", Эрнст Ханс Гомбрихын \"Дэлхийн бяцхан түүх, Федерико Феллинигийн намтар, дурсамжийн \"Зүүд бол цорын ганц бодит зүйл\" зэрэг олон ном бүтээлийг эх хэлнээ орчуулсан чадварлаг орчуулагч, яруу найрагч.",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/312/POpt7kyM.jpg",
+      "web_link": "https://mplus.mn/@g-lkhagvadulam",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=32",
+      "is_followed": false,
+      "follows_count": 37,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "g-lkhagvadulam"
+    },
+    "formatted_listing_price": {
+      "interactive": "₮8,000"
+    },
+    "likes_count": 36
+  },
+  {
+    "id": "649",
+    "title": "Монте Кристо Гүн 3-р Боть",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=649",
+    "web_link": "https://mplus.mn/@public-found/book/monte-kristo-gun-3-r-bot",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52372/5f155719_b6b6b6_0.68.jpg",
+    "slug": "monte-kristo-gun-3-r-bot",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "4907",
+    "description": "Францын зохиолч А.Дюмагийн (1802-1870) уран бүтээлийн хамгийн эрчимтэй үе нь 1840-1848 он байсныг судлаачид тэмдэглэсэн байдаг. Үнэхээр ч энэ хугацаанд «Монте кристо гүн», «Шадар гурван цэрэг», «Хорин жилийн хойно», «Бражелоны бэйс буюу арван жилийн хойно» роман болон бусад олон туурь, жүжиг, замын тэмдэглэл зэрэг дэлхийн улс гүрэнд үе үеийг дамжин алдар нь түгсэн бүтээлүүдээ туурвисан байдаг.\n\n          «Монте кристо гүн» романыг бичих санаа 1892 онд Эльба арлаас холгүй байдаг Плонез арал дээр ан хийж явахад нь төрсөн юм гэдэг. Хажууханд нь Ўайсан «Монте кристо» гэдэг арлын нэр зохиолчийн санаанаас гаралгүй явсаар Парист буцаж ирэнгээ, чухам юуны тухай бичихээ товлоогүй мөртөө хэвлэлийн газартаа ийм нэртэй зохиол бичнэ гэсэн гэрээ хийчихжээ. Ингэж байтал, Парисын цагдаагийн газрын хуучин данс бичгийн захирагч Жак Пешегийн «Дурсамжаас» нөгөө бичих романыхаа гол санаа, зангилааг санамсаргүй олоод авсан байна.1807 онд Парист гуталчин залуу Франсуа Пико гэдэг даржин эр амьдарч байж. Амь зуулгаар тааруухан тэр эрд, аз болоход сүйлсэн бүсгүйнх нь инжинд зуун мянган франк ирэх болжээ. Нэгэн удаа Пико ам алдан энэ тухайгаа гурван танилдаа болон цуг сууж байсан гуанзны эзэн Лупианд ярьчихжээ. Пиког явангуут, угийн жөтөөч, өөдгүй санаатай Лупиан, Пиког цагдаагийн газар гүтгэж, хуримы нь хийлгэхгүй болгочихъё гэдэг санааг цаадуулдаа хэлжээ. Тэгээд цагдаагийн комиссарт «Пико бол английн тандуул» гэсэн ховын бичиг хүргүүлжээ. Хөөрүү комиссар хуурамч ховыг сохроор итгэж, тэр дор нь эзэнт улсын цагдаагийн яамны сайдад дамжуулан илтгэснээр Франсуа Пико долоон жилийн турш сураггүй алга болсон байна.Франсуа Пико тагнуул туршуул гэгдэн тулгагдаж Фенестрел цайзад ял эдэлж байхдаа үхлүүт өвчтэй нэгэн итали гэлэнг сэтгэл гарган тойлж байсны хариуд цаадах нь Милан хотод нуусан алт, үнэт чулуун эрдэнэсээ түүнд гэрээслэн өв болгожээ. Напелеоны эзэнт улсыг унасны дараа Франсуа Пико тэр эрдэнэсийн сангий нь эрж олоод. Парист өөр нэрээр эгэн ирсэн байна. Гэтэл сүйлсэн бүсгүй нь хоёр жил хүлээж байгаад гуанзны эзэн Лупиантай гэрлэснийг дуулжээ. Өөртэй нь хэн ингэж, хатуугаар «тоглосныг» хар аван гадарласан Пико итали ламын дүрд хувилан Нимд очиж, Лупианы гуанзанд хамт сууж байсан гурвын нэг нь байсан боловч булай «тоглоомд» оролцохгүй гэж татгалзсан Антуан Аллютой уулзаж, ховор сайхан очир эрдэнэ бэлэглэн байж, бусад хүний нь нэрийг хэлүүлжээ. Энэ үеэс эхлэн Пико өшөөгөө авахаар хатуу шийдсэн байна.Удалгүй Парис хотын «Урлагийн гүүрэн» дээрээс Шамбарал Лупианы хамсаа гэгчийн хүүр олдоход, түүнийг алсан чинжаалын бариул дээр «Анхных нь» гэж сийлсэн байжээ. Тэгтэл ч Лупианд гай түйтгэр нүүрлэж, гуанз нь шатан, хүү нь шоронгийн хадаас болж, охин нь цөллөгөөс оргосон ялтантай гэр бүл болсон нь илэрчээ. Дараа нь Лупианы хоёр дахь хамсаа Солари хорлогдон амь тавихад, авсан дээрээс нь «Хоёр дахь нь» гэсэн бичиг олдсон байна. Эцэст нь, нэгэн үдэш, нүүрэндээ багтай хүн Лупианыг гудамжинд зогсоож, нүгэл нь нүдээрээ гарч байгааг сануулжээ. Гуанзны эзэн «Бурхан намайг гэсгээн цээрлүүлсэн» гэж хэлэхэд нь нөгөө танихгүй хүн ч чухам хэн болохоо хэлжээ. Хайр найргүй өшөө авахаа тангарагласан Пико ч санасандаа хүрч, Лупиан «Гурав дахь нь» болсон байна.\n              Хэрэг явдал үүгээр дууссангүй. Нөгөө долоон булчирхай, найман найлзуурхайгаа Пикод тоочсон Антуан Аллю, түүний мөрийг мөшгөн, анаж явсаар эцэст нь өшөөг өшөөгөөр авч, түүний аминд хүрчээ. Энэ бүгдийн тухай Аллю амьсгаа хураахынхаа өмнө нүглээ наманчлан ламд ярьснаар сайхь түүхийг цагдаагийн газар дансандаа тэмдэглэн авчээ.Ургуулан бодож, үгээр урлахдаа гарамгай зохиолч Дюма дээрх явдлаас санаа авч түүхэн үйл явдалтай холбоод, амьдралд үнэхээр байсан мэт санагдах, дахин дахин уншсан ч уйдамгүй энэхүү гайхамшигт зохиолыг бүтээсэн түүх ийм ажгуу.\n\n              Энэ удаа Д.Даш агсны орос хэлнээс орчуулсан «Монте кристо гүн»-г франц эхий нь барин дахин засварлав. Иймээс эрхэм уншигч  та уншихын зэрэгцээ өмнөх номтой нь харьцуулан, алдаж оносныг нь, зөвдөж буруудсаныг нь, дутуу дулимаг болсныг нь шүүн тунгааж санал онолоо Улсын хэвлэлийн газар ирүүлбэл манай цаашдын ажилд ихээхэн тус болох болно.",
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 537,
+      "title": "Монте Кристо Гүн 3-р Боть [Унших]",
+      "price": 0,
+      "size": 12274189,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/649/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/649/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 121
+  },
+  {
+    "id": "648",
+    "title": "Монте Кристо Гүн 2-р Боть",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=648",
+    "web_link": "https://mplus.mn/@public-found/book/monte-kristo-gun-2-r-bot",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52371/5f155716_b6b6b6_0.68.jpg",
+    "slug": "monte-kristo-gun-2-r-bot",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": 4710,
+    "description": "Францын зохиолч А.Дюмагийн (1802-1870) уран бүтээлийн хамгийн эрчимтэй үе нь 1840-1848 он байсныг судлаачид тэмдэглэсэн байдаг. Үнэхээр ч энэ хугацаанд «Монте кристо гүн», «Шадар гурван цэрэг», «Хорин жилийн хойно», «Бражелоны бэйс буюу арван жилийн хойно» роман болон бусад олон туурь, жүжиг, замын тэмдэглэл зэрэг дэлхийн улс гүрэнд үе үеийг дамжин алдар нь түгсэн бүтээлүүдээ туурвисан байдаг.\n\n          «Монте кристо гүн» романыг бичих санаа 1892 онд Эльба арлаас холгүй байдаг Плонез арал дээр ан хийж явахад нь төрсөн юм гэдэг. Хажууханд нь Ўайсан «Монте кристо» гэдэг арлын нэр зохиолчийн санаанаас гаралгүй явсаар Парист буцаж ирэнгээ, чухам юуны тухай бичихээ товлоогүй мөртөө хэвлэлийн газартаа ийм нэртэй зохиол бичнэ гэсэн гэрээ хийчихжээ. Ингэж байтал, Парисын цагдаагийн газрын хуучин данс бичгийн захирагч Жак Пешегийн «Дурсамжаас» нөгөө бичих романыхаа гол санаа, зангилааг санамсаргүй олоод авсан байна.1807 онд Парист гуталчин залуу Франсуа Пико гэдэг даржин эр амьдарч байж. Амь зуулгаар тааруухан тэр эрд, аз болоход сүйлсэн бүсгүйнх нь инжинд зуун мянган франк ирэх болжээ. Нэгэн удаа Пико ам алдан энэ тухайгаа гурван танилдаа болон цуг сууж байсан гуанзны эзэн Лупианд ярьчихжээ. Пиког явангуут, угийн жөтөөч, өөдгүй санаатай Лупиан, Пиког цагдаагийн газар гүтгэж, хуримы нь хийлгэхгүй болгочихъё гэдэг санааг цаадуулдаа хэлжээ. Тэгээд цагдаагийн комиссарт «Пико бол английн тандуул» гэсэн ховын бичиг хүргүүлжээ. Хөөрүү комиссар хуурамч ховыг сохроор итгэж, тэр дор нь эзэнт улсын цагдаагийн яамны сайдад дамжуулан илтгэснээр Франсуа Пико долоон жилийн турш сураггүй алга болсон байна.Франсуа Пико тагнуул туршуул гэгдэн тулгагдаж Фенестрел цайзад ял эдэлж байхдаа үхлүүт өвчтэй нэгэн итали гэлэнг сэтгэл гарган тойлж байсны хариуд цаадах нь Милан хотод нуусан алт, үнэт чулуун эрдэнэсээ түүнд гэрээслэн өв болгожээ. Напелеоны эзэнт улсыг унасны дараа Франсуа Пико тэр эрдэнэсийн сангий нь эрж олоод. Парист өөр нэрээр эгэн ирсэн байна. Гэтэл сүйлсэн бүсгүй нь хоёр жил хүлээж байгаад гуанзны эзэн Лупиантай гэрлэснийг дуулжээ. Өөртэй нь хэн ингэж, хатуугаар «тоглосныг» хар аван гадарласан Пико итали ламын дүрд хувилан Нимд очиж, Лупианы гуанзанд хамт сууж байсан гурвын нэг нь байсан боловч булай «тоглоомд» оролцохгүй гэж татгалзсан Антуан Аллютой уулзаж, ховор сайхан очир эрдэнэ бэлэглэн байж, бусад хүний нь нэрийг хэлүүлжээ. Энэ үеэс эхлэн Пико өшөөгөө авахаар хатуу шийдсэн байна.Удалгүй Парис хотын «Урлагийн гүүрэн» дээрээс Шамбарал Лупианы хамсаа гэгчийн хүүр олдоход, түүнийг алсан чинжаалын бариул дээр «Анхных нь» гэж сийлсэн байжээ. Тэгтэл ч Лупианд гай түйтгэр нүүрлэж, гуанз нь шатан, хүү нь шоронгийн хадаас болж, охин нь цөллөгөөс оргосон ялтантай гэр бүл болсон нь илэрчээ. Дараа нь Лупианы хоёр дахь хамсаа Солари хорлогдон амь тавихад, авсан дээрээс нь «Хоёр дахь нь» гэсэн бичиг олдсон байна. Эцэст нь, нэгэн үдэш, нүүрэндээ багтай хүн Лупианыг гудамжинд зогсоож, нүгэл нь нүдээрээ гарч байгааг сануулжээ. Гуанзны эзэн «Бурхан намайг гэсгээн цээрлүүлсэн» гэж хэлэхэд нь нөгөө танихгүй хүн ч чухам хэн болохоо хэлжээ. Хайр найргүй өшөө авахаа тангарагласан Пико ч санасандаа хүрч, Лупиан «Гурав дахь нь» болсон байна.\n              Хэрэг явдал үүгээр дууссангүй. Нөгөө долоон булчирхай, найман найлзуурхайгаа Пикод тоочсон Антуан Аллю, түүний мөрийг мөшгөн, анаж явсаар эцэст нь өшөөг өшөөгөөр авч, түүний аминд хүрчээ. Энэ бүгдийн тухай Аллю амьсгаа хураахынхаа өмнө нүглээ наманчлан ламд ярьснаар сайхь түүхийг цагдаагийн газар дансандаа тэмдэглэн авчээ.Ургуулан бодож, үгээр урлахдаа гарамгай зохиолч Дюма дээрх явдлаас санаа авч түүхэн үйл явдалтай холбоод, амьдралд үнэхээр байсан мэт санагдах, дахин дахин уншсан ч уйдамгүй энэхүү гайхамшигт зохиолыг бүтээсэн түүх ийм ажгуу.\n\n              Энэ удаа Д.Даш агсны орос хэлнээс орчуулсан «Монте кристо гүн»-г франц эхий нь барин дахин засварлав. Иймээс эрхэм уншигч  та уншихын зэрэгцээ өмнөх номтой нь харьцуулан, алдаж оносныг нь, зөвдөж буруудсаныг нь, дутуу дулимаг болсныг нь шүүн тунгааж санал онолоо Улсын хэвлэлийн газар ирүүлбэл манай цаашдын ажилд ихээхэн тус болох болно.",
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 536,
+      "title": "Монте Кристо Гүн 2-р Боть [Унших]",
+      "price": 0,
+      "size": 12313948,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/648/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/648/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 136
+  },
+  {
+    "id": "647",
+    "title": "Монте Кристо Гүн 1-р Боть",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=647",
+    "web_link": "https://mplus.mn/@public-found/book/monte-kristo-gun-1-r-bot",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52370/5f155713_b6b6b6_0.68.jpg",
+    "slug": "monte-kristo-gun-1-r-bot",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "12630",
+    "description": "Францын зохиолч А.Дюмагийн (1802-1870) уран бүтээлийн хамгийн эрчимтэй үе нь 1840-1848 он байсныг судлаачид тэмдэглэсэн байдаг. Үнэхээр ч энэ хугацаанд «Монте кристо гүн», «Шадар гурван цэрэг», «Хорин жилийн хойно», «Бражелоны бэйс буюу арван жилийн хойно» роман болон бусад олон туурь, жүжиг, замын тэмдэглэл зэрэг дэлхийн улс гүрэнд үе үеийг дамжин алдар нь түгсэн бүтээлүүдээ туурвисан байдаг.\n\n          «Монте кристо гүн» романыг бичих санаа 1892 онд Эльба арлаас холгүй байдаг Плонез арал дээр ан хийж явахад нь төрсөн юм гэдэг. Хажууханд нь Ўайсан «Монте кристо» гэдэг арлын нэр зохиолчийн санаанаас гаралгүй явсаар Парист буцаж ирэнгээ, чухам юуны тухай бичихээ товлоогүй мөртөө хэвлэлийн газартаа ийм нэртэй зохиол бичнэ гэсэн гэрээ хийчихжээ. Ингэж байтал, Парисын цагдаагийн газрын хуучин данс бичгийн захирагч Жак Пешегийн «Дурсамжаас» нөгөө бичих романыхаа гол санаа, зангилааг санамсаргүй олоод авсан байна.1807 онд Парист гуталчин залуу Франсуа Пико гэдэг даржин эр амьдарч байж. Амь зуулгаар тааруухан тэр эрд, аз болоход сүйлсэн бүсгүйнх нь инжинд зуун мянган франк ирэх болжээ. Нэгэн удаа Пико ам алдан энэ тухайгаа гурван танилдаа болон цуг сууж байсан гуанзны эзэн Лупианд ярьчихжээ. Пиког явангуут, угийн жөтөөч, өөдгүй санаатай Лупиан, Пиког цагдаагийн газар гүтгэж, хуримы нь хийлгэхгүй болгочихъё гэдэг санааг цаадуулдаа хэлжээ. Тэгээд цагдаагийн комиссарт «Пико бол английн тандуул» гэсэн ховын бичиг хүргүүлжээ. Хөөрүү комиссар хуурамч ховыг сохроор итгэж, тэр дор нь эзэнт улсын цагдаагийн яамны сайдад дамжуулан илтгэснээр Франсуа Пико долоон жилийн турш сураггүй алга болсон байна.Франсуа Пико тагнуул туршуул гэгдэн тулгагдаж Фенестрел цайзад ял эдэлж байхдаа үхлүүт өвчтэй нэгэн итали гэлэнг сэтгэл гарган тойлж байсны хариуд цаадах нь Милан хотод нуусан алт, үнэт чулуун эрдэнэсээ түүнд гэрээслэн өв болгожээ. Напелеоны эзэнт улсыг унасны дараа Франсуа Пико тэр эрдэнэсийн сангий нь эрж олоод. Парист өөр нэрээр эгэн ирсэн байна. Гэтэл сүйлсэн бүсгүй нь хоёр жил хүлээж байгаад гуанзны эзэн Лупиантай гэрлэснийг дуулжээ. Өөртэй нь хэн ингэж, хатуугаар «тоглосныг» хар аван гадарласан Пико итали ламын дүрд хувилан Нимд очиж, Лупианы гуанзанд хамт сууж байсан гурвын нэг нь байсан боловч булай «тоглоомд» оролцохгүй гэж татгалзсан Антуан Аллютой уулзаж, ховор сайхан очир эрдэнэ бэлэглэн байж, бусад хүний нь нэрийг хэлүүлжээ. Энэ үеэс эхлэн Пико өшөөгөө авахаар хатуу шийдсэн байна.Удалгүй Парис хотын «Урлагийн гүүрэн» дээрээс Шамбарал Лупианы хамсаа гэгчийн хүүр олдоход, түүнийг алсан чинжаалын бариул дээр «Анхных нь» гэж сийлсэн байжээ. Тэгтэл ч Лупианд гай түйтгэр нүүрлэж, гуанз нь шатан, хүү нь шоронгийн хадаас болж, охин нь цөллөгөөс оргосон ялтантай гэр бүл болсон нь илэрчээ. Дараа нь Лупианы хоёр дахь хамсаа Солари хорлогдон амь тавихад, авсан дээрээс нь «Хоёр дахь нь» гэсэн бичиг олдсон байна. Эцэст нь, нэгэн үдэш, нүүрэндээ багтай хүн Лупианыг гудамжинд зогсоож, нүгэл нь нүдээрээ гарч байгааг сануулжээ. Гуанзны эзэн «Бурхан намайг гэсгээн цээрлүүлсэн» гэж хэлэхэд нь нөгөө танихгүй хүн ч чухам хэн болохоо хэлжээ. Хайр найргүй өшөө авахаа тангарагласан Пико ч санасандаа хүрч, Лупиан «Гурав дахь нь» болсон байна.\n              Хэрэг явдал үүгээр дууссангүй. Нөгөө долоон булчирхай, найман найлзуурхайгаа Пикод тоочсон Антуан Аллю, түүний мөрийг мөшгөн, анаж явсаар эцэст нь өшөөг өшөөгөөр авч, түүний аминд хүрчээ. Энэ бүгдийн тухай Аллю амьсгаа хураахынхаа өмнө нүглээ наманчлан ламд ярьснаар сайхь түүхийг цагдаагийн газар дансандаа тэмдэглэн авчээ.Ургуулан бодож, үгээр урлахдаа гарамгай зохиолч Дюма дээрх явдлаас санаа авч түүхэн үйл явдалтай холбоод, амьдралд үнэхээр байсан мэт санагдах, дахин дахин уншсан ч уйдамгүй энэхүү гайхамшигт зохиолыг бүтээсэн түүх ийм ажгуу.\n\n              Энэ удаа Д.Даш агсны орос хэлнээс орчуулсан «Монте кристо гүн»-г франц эхий нь барин дахин засварлав. Иймээс эрхэм уншигч  та уншихын зэрэгцээ өмнөх номтой нь харьцуулан, алдаж оносныг нь, зөвдөж буруудсаныг нь, дутуу дулимаг болсныг нь шүүн тунгааж санал онолоо Улсын хэвлэлийн газар ирүүлбэл манай цаашдын ажилд ихээхэн тус болох болно.",
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 535,
+      "title": "Монте Кристо Гүн 1-р Боть [Унших]",
+      "price": 0,
+      "size": 12168664,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/647/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/647/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 247
+  },
+  {
+    "id": "646",
+    "title": "Казиног номхотгосон түүх",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=646",
+    "web_link": "https://mplus.mn/@d-enkhbold/book/kazinog-nomxotgoson-tuux",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52369/5f155711_674940_0.68.jpg",
+    "slug": "kazinog-nomxotgoson-tuux",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "6931",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 534,
+      "title": "Казиног номхотгосон түүх [Унших]",
+      "price": 0,
+      "size": 1904919,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/646/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/646/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "74",
+      "name": "Д. Энхболд",
+      "title": "Зохиолч",
+      "description": "Зохиолч Доржзовдын Энхболд 1959-1-9 нд Улаанбаатар хотод 1-р амаржих газар төрсөн. Бага дунд сургууль улмаар МУИС-ын дэргэдэх Политехникийн дээд сургууль төгссөн. Геологич инженер мэргэжилтэй. \"Битүү морь\", \"Бүйлс дахин цэцэглэнэ\", \"Соёо\", \"Паанан\" зэрэг бүтээлүүдийг хэвлүүлсэн. Зохиолчийн гуравдахь ном 2007 онд \"Казиног номхотгосон түүх\" нэртэй хэвлэгдэн гармагц Монголын бэстселлэр ном болсон төдийгүй мөн оныхоо АЛТАН ӨД шагнал хүртсэн байна.",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/1783/HWw8RUTu.jpg",
+      "web_link": "https://mplus.mn/@d-enkhbold",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=74",
+      "is_followed": false,
+      "follows_count": 2,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "d-enkhbold"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 65
+  },
+  {
+    "id": "645",
+    "title": "Усан доогуур 20000 бээр аялсан нь",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=645",
+    "web_link": "https://mplus.mn/@public-found/book/usan-dooguur-20000-beer-ayalsan-n",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52368/5f15570f_2c7fb9_0.68.jpg",
+    "slug": "usan-dooguur-20000-beer-ayalsan-n",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "7064",
+    "description": "1865 онд ер бусын хачин явдлууд гарсан нь өнөө хүртэл олон хүний санаанд байсаар байгаа буйзаа. Эдгээр явдлын дуу чимээ эх газрын ард иргэдийн сонирхлыг татаж, далайн замын боомт хотуудын оршин суугчдыг сандраан, ялангуяа далайчдын сэтгэлийг сүрхий түгшүүлэв. Худалдаачин, хөлөг онгоцнй эзэн, капитанууд, бага дарга, далайн цэрэг, тэрч байтугай шинэ, хуучин тивүүдийн хэд хэдэн улс гүрний засгийн газар тэр нэгэн хачин явдлыг гойд шохоорхон сонирхож байв.",
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 533,
+      "title": "Усан доогуур 20000 бээр аялсан нь [Унших]",
+      "price": 0,
+      "size": 10047124,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/645/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/645/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "5",
+        "type": "book",
+        "slug": "fantasy",
+        "name": "Уран зөгнөлт",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/fantasy/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/fantasy/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/fantasy/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 206
+  },
+  {
+    "id": "644",
+    "title": "Санниковын газар",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=644",
+    "web_link": "https://mplus.mn/@public-found/book/sannikovyn-gazar",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52366/5f15570d_858380_0.68.jpg",
+    "slug": "sannikovyn-gazar",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "6191",
+    "description": "Санниковын газар",
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 532,
+      "title": "Санниковын газар [Унших]",
+      "price": 0,
+      "size": 1903966,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/644/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/644/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 55
+  },
+  {
+    "id": "643",
+    "title": "Арбатын хүүхдүүд 1",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=643",
+    "web_link": "https://mplus.mn/@public-found/book/arbatyn-xuuxduud-1",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52365/5f15570b_767071_0.68.jpg",
+    "slug": "arbatyn-xuuxduud-1",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "9592",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 531,
+      "title": "Арбатын хүүхдүүд 1 [Унших]",
+      "price": 0,
+      "size": 2814568,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/643/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/643/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 81
+  },
+  {
+    "id": "642",
+    "title": "Америкийн эмгэнэлт явдал 2-р Боть",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=642",
+    "web_link": "https://mplus.mn/@public-found/book/amerikiin-emgenelt-yavdal-2-r-bot",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52364/5f155708_9a7e76_0.68.jpg",
+    "slug": "amerikiin-emgenelt-yavdal-2-r-bot",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "5891",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 530,
+      "title": "Америкийн эмгэнэлт явдал 2-р Боть [Унших]",
+      "price": 0,
+      "size": 2062206,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/642/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/642/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 99
+  },
+  {
+    "id": "641",
+    "title": "Америкийн эмгэнэлт явдал 1-р Боть",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=641",
+    "web_link": "https://mplus.mn/@public-found/book/amerikiin-emgenelt-yavdal-1-r-bot",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52363/5f155705_9a7e76_0.68.jpg",
+    "slug": "amerikiin-emgenelt-yavdal-1-r-bot",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "9161",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 529,
+      "title": "Америкийн эмгэнэлт явдал 1-р Боть [Унших]",
+      "price": 0,
+      "size": 2087924,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/641/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/641/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 104
+  },
+  {
+    "id": "639",
+    "title": "Шадар гурван цэрэг",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=639",
+    "web_link": "https://mplus.mn/@public-found/book/sadar-gurvan-cereg",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52362/5f155703_95b3b6_0.68.jpg",
+    "slug": "sadar-gurvan-cereg",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "8681",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 527,
+      "title": "Шадар гурван цэрэг [Унших]",
+      "price": 0,
+      "size": 2434759,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/639/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/639/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 131
+  },
+  {
+    "id": "638",
+    "title": "Спартак",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=638",
+    "web_link": "https://mplus.mn/@public-found/book/spartak",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52361/5f155700_434f59_0.68.jpg",
+    "slug": "spartak",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "4233",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 526,
+      "title": "Спартак [Унших]",
+      "price": 0,
+      "size": 9866842,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/638/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/638/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 77
+  },
+  {
+    "id": "637",
+    "title": "Монголын нууц товчоо",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=637",
+    "web_link": "https://mplus.mn/@public-found/book/mongolyn-nuuc-tovcoo",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52360/5f1556fd_464646_0.68.jpg",
+    "slug": "mongolyn-nuuc-tovcoo",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "3996",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 525,
+      "title": "Монголын нууц товчоо [Унших]",
+      "price": 0,
+      "size": 4909277,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/637/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/637/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "10",
+        "type": "book",
+        "slug": "history",
+        "name": "Түүх",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/history/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/history/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/history/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 239
+  },
+  {
+    "id": "636",
+    "title": "Монголын товч түүх",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=636",
+    "web_link": "https://mplus.mn/@public-found/book/mongolyn-tovc-tuux",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52359/5f1556fa_323333_0.68.jpg",
+    "slug": "mongolyn-tovc-tuux",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "9017",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 524,
+      "title": "Монголын товч түүх [Унших]",
+      "price": 0,
+      "size": 10542072,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/636/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/636/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "10",
+        "type": "book",
+        "slug": "history",
+        "name": "Түүх",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/history/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/history/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/history/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 106
+  },
+  {
+    "id": "635",
+    "title": "Шидэт хүүрийн үлгэр",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=635",
+    "web_link": "https://mplus.mn/@public-found/book/sidet-xuuriin-ulger",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52358/5f1556f7_47312f_0.68.jpg",
+    "slug": "sidet-xuuriin-ulger",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "7791",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 523,
+      "title": "Шидэт хүүрийн үлгэр [Унших]",
+      "price": 0,
+      "size": 5721553,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/635/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/635/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "3",
+        "type": "book",
+        "slug": "children",
+        "name": "Хүүхдийн ном",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/children/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/children/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/children/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 58
+  },
+  {
+    "id": "633",
+    "title": "Гэсэр",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=633",
+    "web_link": "https://mplus.mn/@public-found/book/geser",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52355/5f1556f2_a83a24_0.68.jpg",
+    "slug": "geser",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "8807",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 521,
+      "title": "Гэсэр [Унших]",
+      "price": 0,
+      "size": 5305909,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/633/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/633/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "3",
+        "type": "book",
+        "slug": "children",
+        "name": "Хүүхдийн ном",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/children/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/children/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/children/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 117
+  },
+  {
+    "id": "632",
+    "title": "Орос үлгэрүүд",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=632",
+    "web_link": "https://mplus.mn/@public-found/book/oros-ulgeruud",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52354/5f1556ef_d3b6ab_0.68.jpg",
+    "slug": "oros-ulgeruud",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "8479",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 520,
+      "title": "Орос үлгэрүүд [Унших]",
+      "price": 0,
+      "size": 8424873,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/632/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/632/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "3",
+        "type": "book",
+        "slug": "children",
+        "name": "Хүүхдийн ном",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/children/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/children/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/children/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 85
+  },
+  {
+    "id": "631",
+    "title": "Үүлэн бор",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=631",
+    "web_link": "https://mplus.mn/@public-found/book/uulen-bor",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52353/5f1556ec_ab7558_0.68.jpg",
+    "slug": "uulen-bor",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "7680",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 519,
+      "title": "Үүлэн бор [Унших]",
+      "price": 0,
+      "size": 5977754,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/631/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/631/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "3",
+        "type": "book",
+        "slug": "children",
+        "name": "Хүүхдийн ном",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/children/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/children/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/children/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 87
+  },
+  {
+    "id": "630",
+    "title": "Моби Дик",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=630",
+    "web_link": "https://mplus.mn/@herman-melville/book/mobi-dik",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52352/5f1556ea_b9a185_0.68.jpg",
+    "slug": "mobi-dik",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "5503",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 518,
+      "title": "Моби Дик [Унших]",
+      "price": 0,
+      "size": 10881290,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/630/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/630/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "1",
+        "type": "book",
+        "slug": "classic-literature",
+        "name": "Сонгодог зохиол",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/classic-literature/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/classic-literature/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/classic-literature/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "46",
+      "name": "Ге́рман Ме́лвилл",
+      "title": "Зохиолч",
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/1028/XvtkooR6.jpg",
+      "web_link": "https://mplus.mn/@herman-melville",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=46",
+      "is_followed": false,
+      "follows_count": 1,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "herman-melville"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 87
+  },
+  {
+    "id": "628",
+    "title": "Ногун",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=628",
+    "web_link": "https://mplus.mn/@mongol-content/book/nogun",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52350/5f1556e7_7f9a71_0.68.jpg",
+    "slug": "nogun",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": 7080,
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 516,
+      "title": "Ногун [Унших]",
+      "price": 0,
+      "size": 58923191,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/628/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/628/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "3",
+        "type": "book",
+        "slug": "children",
+        "name": "Хүүхдийн ном",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/children/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/children/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/children/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "17",
+      "name": "Монгол контент",
+      "title": null,
+      "description": "Монголын анхны дижитал контент компани бөгөөд Мобиком Корпораци, Сумитомо корпорацийн БНСУ дахь салбар компани болон Солонгосын Омнител компаниудын хөрөнгө оруулалттайгаар 2005 оны 10-р сарын 1-ний өдөр үүсгэн байгуулагдсан. Одоогийн байдлаар Монгол Контент ХХК нь дараах салбаруудад үйл ажиллагаагаа явуулж байна. \n\nХэвлэл мэдээллийн салбарт:\n\n    Монголын интернэт хэрэглэгчдэд зориулж Үндэсний портал www.gogo.mn веб сайт\n    Өсвөр насны хүүхдэд зориулж www.yolo.mn сай\n    Сургуулийн өмнөх насны хүүхэд болон тэдгээрийн эцэг эхчүүдэд зориулсан www.maamuu.mn сайтыг эрхлэн явуулж байна\n\nДүрийн бизнесийн салбарт:\n\n    Өсвөр насныханд зориулсан “Yolo” брэнд, дүр\n    6-12 насны хүүхдүүдэд зориулж “Ногун” брэнд дүр\n    Сургуулийн өмнөх насны хүүхдүүдэд зориулж “Маамуу”брэндийн Аами, Таами дүрүүдийг хөгжүүлэх үндэсний төслийг хэрэгжүүлж байна\n\nДуу хөгжмийн салбарт:\n\n    Дистрибьюшн\n    Артист менежмент\n    Лэбэл\n    Эвент менежмент\n    Захиалгын агентлаг зэрэг үйл ажиллагаа явуулдаг.\n\nКино салбарт:\n\n2015 оноос “Монгол Кино” төслөө эхлүүлсэн ба уран бүтээлчид, кино продакшн, студиудтай хамтран “Учиртай гурав”, “Хайрын клуб”, “Одод болохын хүслэн”, “Хоёр амь”, “Зүрхний хилэн” гэсэн кино контентуудыг бүтээгээд байна. Мөн “Чонон сүлд” киноны Монголд албан ёсоор гаргах үйл ажиллагааны албан ёсны түншээр ажиллаж байсан туршлагатай.\n\nКомик анимэйшн салбарт:\n\nМонгол комик, анимэйшн төслийнхөө хүрээнд “Ногун”, “Маамуу” дүрийн комик, анимэйшнүүдийг хөгжүүлж байна.\n\nАрт дистрибьюшн салбарт:\n\nАрт дистрибьюшн чиглэлээр 2017 оноос эхлэн үйл ажиллагаа явуулж байгаа ба яг одоо зураач С.Заяасайханы дистрибушн дээр ажиллаж байна.\n\nХарилцаа холбооны салбарт:\n\nҮүрэн телефон хэрэглэгчдэд зориулсан дижитал контент үйлдвэрлэх, нийлүүлэх. Гадаад дотоодын контент нийлүүлэгчдийн контентийг зохиогчийн эрхтэйгээр дамжуулах\n\nМэдээлэл технологийн салбарт:\n\nПрограм хангамж хөгжүүлэлт ба системийн интеграци чиглэлээр ажиллаж байна.\n\nЗар сурталчилгааны салбарт:\n\nКреатив хөгжүүлэлтийн чиглэлээр үйл ажиллагаа явуулж байна.",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/1740/5l8leoin.jpg",
+      "web_link": "https://mplus.mn/@mongol-content",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=17",
+      "is_followed": false,
+      "follows_count": 90,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "mongol-content"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 134
+  },
+  {
+    "id": "627",
+    "title": "Friendship is magic #1 (My little pony)",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=627",
+    "web_link": "https://mplus.mn/@Bplus publishing/book/friendship-is-magic-1-my-little-pony",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52349/5f1556e5_aca17f_0.68.jpg",
+    "slug": "friendship-is-magic-1-my-little-pony",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": 6104,
+    "description": "My Little Pony буюу Миний бяцхан морьд хүүхдийн цуврал комик нь гол дүр болсон Пони морьдод тохиолдох адал явдалын тухай өгүүлэх болно.",
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 515,
+      "title": "Friendship is magic #1 (My little pony) [Унших]",
+      "price": 0,
+      "size": 33166820,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/627/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/627/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "3",
+        "type": "book",
+        "slug": "children",
+        "name": "Хүүхдийн ном",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/children/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/children/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/children/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "78",
+      "name": "Биплас Паблишинг - Хүүхдийн Ном",
+      "title": null,
+      "description": "B+ Mongolia нь хүний нөөц, маркетинг болон бизнес стратегийн зөвлөгөө өгөх, сургалт хөгжлийн үйл ажиллагаа эрхлэдэг компани юм. Тус компани олон улсын нэр хүндтэй манлайллын сургалтуудыг албан ёсны эрхтэйгээр зохион байгуулж, хэвлэн нийтлэлийн салбарт шинэлэг, сонин содон номуудыг эрхлэн гаргаж байна.",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/3360/h5s9h1he.jpg",
+      "web_link": "https://mplus.mn/@Bplus%20publishing",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=78",
+      "is_followed": false,
+      "follows_count": 104,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "Bplus publishing"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 99
+  },
+  {
+    "id": "626",
+    "title": "Борхүү Одхүү Төмөрхүү гурвын адал явдал",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=626",
+    "web_link": "https://mplus.mn/@Bplus publishing/book/borxuu-odxuu-tomorxuu-gurvyn-adal-yavdal",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52348/5f1556e2_6f7a53_0.68.jpg",
+    "slug": "borxuu-odxuu-tomorxuu-gurvyn-adal-yavdal",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": 4699,
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 514,
+      "title": "Борхүү Одхүү Төмөрхүү гурвын адал явдал [Унших]",
+      "price": 0,
+      "size": 47046626,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/626/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 25,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/626/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "3",
+        "type": "book",
+        "slug": "children",
+        "name": "Хүүхдийн ном",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/children/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/children/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/children/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "78",
+      "name": "Биплас Паблишинг - Хүүхдийн Ном",
+      "title": null,
+      "description": "B+ Mongolia нь хүний нөөц, маркетинг болон бизнес стратегийн зөвлөгөө өгөх, сургалт хөгжлийн үйл ажиллагаа эрхлэдэг компани юм. Тус компани олон улсын нэр хүндтэй манлайллын сургалтуудыг албан ёсны эрхтэйгээр зохион байгуулж, хэвлэн нийтлэлийн салбарт шинэлэг, сонин содон номуудыг эрхлэн гаргаж байна.",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/3360/h5s9h1he.jpg",
+      "web_link": "https://mplus.mn/@Bplus%20publishing",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=78",
+      "is_followed": false,
+      "follows_count": 104,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "Bplus publishing"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 48
+  },
+  {
+    "id": "625",
+    "title": "“Хүн” оддын Бясалгал",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=625",
+    "web_link": "https://mplus.mn/@b-uuganbayar/book/xun-oddyn-byasalgal",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52347/5f1556e0_3f4e6a_0.68.jpg",
+    "slug": "xun-oddyn-byasalgal",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": 4922,
+    "description": "3 бүлгээс бүрдсэн яруу найргийн түүвэр : \n1-р бүлэг – Цаг хугацааны модод\n2-р бүлэг Далавчлагч цонх \n3-р бүлэг Туяарагч шүлгүүд зэрэг багтсан",
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 513,
+      "title": "“Хүн” оддын Бясалгал [Унших]",
+      "price": 0,
+      "size": 13782660,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/625/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/625/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "15",
+        "type": "book",
+        "slug": "poetry",
+        "name": "Яруу найраг",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/poetry/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/poetry/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/poetry/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "42",
+      "name": "Б.Ууганбаяр",
+      "title": "Зохиолч",
+      "description": "Монгол Улсын Соёл Урлагын сургуулийг 2017 онд “жүжиг киноны зохиолч” мэргэжлээр төгссөн 2016 онд “Хүн оддын бясалгал” яруу найргийн түүвэр гаргасан.",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/447/TabBXE5J.jpg",
+      "web_link": "https://mplus.mn/@b-uuganbayar",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=42",
+      "is_followed": false,
+      "follows_count": 3,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "b-uuganbayar"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 61
+  },
+  {
+    "id": "624",
+    "title": "Орчлонд илгээх захидал",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=624",
+    "web_link": "https://mplus.mn/@g-lkhagvadulam/book/orclond-ilgeex-zaxidal",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52346/5f1556dd_97b279_0.68.jpg",
+    "slug": "orclond-ilgeex-zaxidal",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": 7156,
+    "description": "Америкийн нэрт яруу найрагч Эмили Дикинсон өөрийн гайхалтай шүлгүүд болон этгээд амьдралын хэв маяг, үзэл бодлоороо олны анхаарлыг яах аргагүй татдаг. Амьд ахуйдаа тэрээр нэг ч шүлгээ хэвлүүлж байгаагүй бөгөөд нас барсаных нь дараа гэрээс нь 1800 гаруй шүлэг нь олдож хожмоо алдаршисан юм. Өөрийн гэсэн мяндашгүй  үзэл бодолтой, түүндээ мятрашгүй үнэн ч байсан нууцлаг хатагтайн шүлэг өдгөө яруу найргийн сонгодог, шилмэл бүтээлд зүй ёсоор багтдаг билээ.",
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 512,
+      "title": "Орчлонд илгээх захидал [Унших]",
+      "price": 0,
+      "size": 10245588,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/624/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/624/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "15",
+        "type": "book",
+        "slug": "poetry",
+        "name": "Яруу найраг",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/poetry/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/poetry/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/poetry/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "32",
+      "name": "Г.Лхагвадулам",
+      "title": "Яруу найрагч, орчуулагч",
+      "description": "Америкийн яруу найрагч Эмили Дикинсоны шүлгийн түүврийн \"Орчлонд илгээх захидал\" нэрээр, Альбер Камюгийн \"Хөндлөнгийн хүн\", Эрнст Ханс Гомбрихын \"Дэлхийн бяцхан түүх, Федерико Феллинигийн намтар, дурсамжийн \"Зүүд бол цорын ганц бодит зүйл\" зэрэг олон ном бүтээлийг эх хэлнээ орчуулсан чадварлаг орчуулагч, яруу найрагч.",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/312/POpt7kyM.jpg",
+      "web_link": "https://mplus.mn/@g-lkhagvadulam",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=32",
+      "is_followed": false,
+      "follows_count": 37,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "g-lkhagvadulam"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 76
+  },
+  {
+    "id": "623",
+    "title": "Залбирлын Эсээс",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=623",
+    "web_link": "https://mplus.mn/@p-batkhuyag/book/zalbirlyn-esees",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52345/5f1556db_505050_0.68.jpg",
+    "slug": "zalbirlyn-esees",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "6027",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 511,
+      "title": "Залбирлын Эсээс [Унших]",
+      "price": 0,
+      "size": 12244634,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/623/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/623/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "16",
+        "type": "book",
+        "slug": "essay-and-criticism",
+        "name": "Эссэ, шүүмж",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/essay-and-criticism/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/essay-and-criticism/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/essay-and-criticism/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "35",
+      "name": "П.Батхуяг",
+      "title": "Зохиолч",
+      "description": "1975 онд Улаанбаатар хотод төрсөн. 1997 онд Дорно дахины утга зохиолын дээд сургууль, 2001 онд МУИС-ийн магистрантур, 2004 онд МУБИС-ийн аспирантур төгссөн. Хэл бичгийн ухааны доктор /Ph.D/ Яруу найрагч, хүүрнэл зохиолч, утга зохиол судлаач. \"Алтан өд\"-ийн 5 удаагийн шагналт,  2007 онд МЗЭ-ийн шагнал хүртсэн. Хүүрнэл зохиол, яруу найраг, утга зохиол судлалын чиглэлээр уран бүтээл туурвиж байна.",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/347/Mygtl2Jk.jpg",
+      "web_link": "https://mplus.mn/@p-batkhuyag",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=35",
+      "is_followed": false,
+      "follows_count": 22,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "p-batkhuyag"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 96
+  },
+  {
+    "id": "622",
+    "title": "Оросын мөнгөн үеийн яруу найраг",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=622",
+    "web_link": "https://mplus.mn/@d-oyunchimeg/book/orosyn-mongon-ueiin-yaruu-nairag",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52344/5f1556d8_535953_0.68.jpg",
+    "slug": "orosyn-mongon-ueiin-yaruu-nairag",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "4211",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 510,
+      "title": "Оросын мөнгөн үеийн яруу найраг [Унших]",
+      "price": 0,
+      "size": 12998734,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/622/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/622/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "15",
+        "type": "book",
+        "slug": "poetry",
+        "name": "Яруу найраг",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/poetry/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/poetry/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/poetry/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "36",
+      "name": "Д.Оюунчимэг",
+      "title": "Зохиолч, орчуулагч",
+      "description": "\"1969 онд Ховд аймгийн Дуут суманд албан хаагчийн гэр бүлд төрсөн.\n\n1987 онд Эрхүүгийн Их Сургуулийн хуулийн ангид элсэн орж, 1993 онд МУИС-ийн хуулийн анги дүүргэсэн.  1995 онд Жамъяангаравын нэрэмжит Утга Зохиолын дээд сургууль төгссөн.\n\n“Харанхуйн дуулал” (1999) шүлгийн түүвэр, “Гэсгээгдэгсэд” (2001) тууж, “Очирт уулын бичиглэл” (2003) шүлгийн түүвэр, “Тэнгэрийн цаг болоогүй” (2006) тууж нь тус тус хэвлэгдсэн. Шүлэг зохиолууд нь хятад, солонгос хэлнээ орчуулагдаж “Азийн яруу найраг” гэх мэт сэтгүүлд хэвлэгдэж байв.\n\nТэрээр орчуулгын уран бүтээлээрээ ч уншигчдынхаа оюуныг баясгасан энэ цагийн шилдэг орчуулагчдын нэг билээ. Д.Оюунчимэг Оросын мөнгөн үеийн яруу найрагчдын шүлгүүдийн орчуулгаа “Шүлгүүд” нэртэйгээр  2003 онд хэвлүүлжээ. Улмаар 2007 онд Нобелийн шагналт Израйлийн зохиолч И.Зингерийн “Шоша” роман, Аргентений зохиолч Х.Борхесийн “Зүүдний ном”, Х.Кортасарын “Тоглоом дууслаа” өгүүллэгийн түүвэр, Сербийн зохиолч М.Павичийн “Салхины дотоод тал” роман, Оросын зохиолч В.Ерофеевийн “Москва-Петушки” романыг тус тус орчуулан хэвлүүлжээ. Тэрэр 2008 оноос одоог хүртэл дэлхийн хүүхдийн сонгодог зохиолын “Эрдэнэсийн сан” цувралаар 140 гаруй ном эрхлэн гаргаж, нэр хүндтэй уран бүтээлчдийн хамт судалгааны, орчуулгын, хянан засварлагчийн ажлыг амжилттай сайн хийж гүйцэтгэж байгаа билээ.\"",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/350/0MqL5GTv.jpg",
+      "web_link": "https://mplus.mn/@d-oyunchimeg",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=36",
+      "is_followed": false,
+      "follows_count": 4,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "d-oyunchimeg"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 34
+  },
+  {
+    "id": "621",
+    "title": "Эсрэг цаг",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=621",
+    "web_link": "https://mplus.mn/@p-batkhuyag/book/esreg-cag",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52342/5f1556d6_a28e62_0.68.jpg",
+    "slug": "esreg-cag",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "9734",
+    "description": "Доктор П.Батхуягийн энэ ном өөрийн амьдарч буй цаг үе нийгэм, боловсрол, соёл-утга зохиолын янз бүрийн асуудлыг хөндөж, үзэгдэл үйл явцыг хооронд нь нягт холбож, шинжлэх ухаан-урлагийн онолын үүднээс буурь суурьтай, гярхай задлан шинжилсэн, оюутан суралцагчдад нэг талаасаа онол арга зүйн болоод урлагийн шүүмжлэлийн онол-арга зүй эзэмших, дадал дүй олоход сургалт-эрдэм шинжилгээ, практикийн олон талын ач холбогдолтой ном болжээ. Түүний урлаг, уран зохиолын шилдэг бүтээлүүдийг задлан шинжилсэн шүүмж өгүүллүүд нь орчин үеийн нийгэм-урлагийн холбоо хамаарлын эмзэг нарийн асуудлууд, тухайлбал боловсрол, эх хэл, утга зохиол, ёс суртахууны асуудлуудыг хөндсөн нийтлэл бичвэрүүд нь зөвхөн хувь хүний бодол санаа төдий бус өөрийн улс орны урлаг соёлын салбарт ажиллагсад, суралцагчдад ихээхэн ач холбогдолтой сургалтын хэрэглэгдэхүүн болж, олсон онолын мэдлэгээ практикаар бататгах, мэргэжлийн чиг баримжаа олох, арга зүй эзэмших, мэдлэгээ баяжуулахад чиглэсэн байна.",
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 509,
+      "title": "Эсрэг цаг [Унших]",
+      "price": 0,
+      "size": 12872264,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/621/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/621/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "16",
+        "type": "book",
+        "slug": "essay-and-criticism",
+        "name": "Эссэ, шүүмж",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/essay-and-criticism/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/essay-and-criticism/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/essay-and-criticism/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "35",
+      "name": "П.Батхуяг",
+      "title": "Зохиолч",
+      "description": "1975 онд Улаанбаатар хотод төрсөн. 1997 онд Дорно дахины утга зохиолын дээд сургууль, 2001 онд МУИС-ийн магистрантур, 2004 онд МУБИС-ийн аспирантур төгссөн. Хэл бичгийн ухааны доктор /Ph.D/ Яруу найрагч, хүүрнэл зохиолч, утга зохиол судлаач. \"Алтан өд\"-ийн 5 удаагийн шагналт,  2007 онд МЗЭ-ийн шагнал хүртсэн. Хүүрнэл зохиол, яруу найраг, утга зохиол судлалын чиглэлээр уран бүтээл туурвиж байна.",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/347/Mygtl2Jk.jpg",
+      "web_link": "https://mplus.mn/@p-batkhuyag",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=35",
+      "is_followed": false,
+      "follows_count": 22,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "p-batkhuyag"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 164
+  },
+  {
+    "id": "620",
+    "title": "Эр хүүрнэл",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=620",
+    "web_link": "https://mplus.mn/@r-ulamorgikh/book/er-xuurnel",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52341/5f1556d3_c9ccac_0.68.jpg",
+    "slug": "er-xuurnel",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "3342",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 508,
+      "title": "Эр хүүрнэл [Унших]",
+      "price": 0,
+      "size": 6033796,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/620/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/620/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "15",
+        "type": "book",
+        "slug": "poetry",
+        "name": "Яруу найраг",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/poetry/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/poetry/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/poetry/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "34",
+      "name": "Р.Улам-Оргих",
+      "title": "Зохиолч",
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/345/LwKcjejM.jpg",
+      "web_link": "https://mplus.mn/@r-ulamorgikh",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=34",
+      "is_followed": false,
+      "follows_count": 2,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "r-ulamorgikh"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 25
+  },
+  {
+    "id": "619",
+    "title": "Александр Блок",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=619",
+    "web_link": "https://mplus.mn/@public-found/book/aleksandr-blok",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52340/5f1556d0_422c2f_0.68.jpg",
+    "slug": "aleksandr-blok",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "7008",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 507,
+      "title": "Александр Блок [Унших]",
+      "price": 0,
+      "size": 15751912,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/619/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/619/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "15",
+        "type": "book",
+        "slug": "poetry",
+        "name": "Яруу найраг",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/poetry/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/poetry/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/poetry/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "79",
+      "name": "Нийтийн оюуны сан",
+      "title": null,
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/4355/I1eLI6rm.jpg",
+      "web_link": "https://mplus.mn/@public-found",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=79",
+      "is_followed": false,
+      "follows_count": 1225,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "public-found"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 41
+  },
+  {
+    "id": "618",
+    "title": "Загас хашгирах цаг",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=618",
+    "web_link": "https://mplus.mn/@g-lkhagvadulam/book/zagas-xasgirax-cag",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52339/5f1556cd_a2b6b8_0.68.jpg",
+    "slug": "zagas-xasgirax-cag",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "7576",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 506,
+      "title": "Загас хашгирах цаг [Унших]",
+      "price": 0,
+      "size": 15034886,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/618/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/618/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "9",
+        "type": "book",
+        "slug": "science",
+        "name": "Шинжлэх ухаан",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/science/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/science/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/science/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "32",
+      "name": "Г.Лхагвадулам",
+      "title": "Яруу найрагч, орчуулагч",
+      "description": "Америкийн яруу найрагч Эмили Дикинсоны шүлгийн түүврийн \"Орчлонд илгээх захидал\" нэрээр, Альбер Камюгийн \"Хөндлөнгийн хүн\", Эрнст Ханс Гомбрихын \"Дэлхийн бяцхан түүх, Федерико Феллинигийн намтар, дурсамжийн \"Зүүд бол цорын ганц бодит зүйл\" зэрэг олон ном бүтээлийг эх хэлнээ орчуулсан чадварлаг орчуулагч, яруу найрагч.",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/312/POpt7kyM.jpg",
+      "web_link": "https://mplus.mn/@g-lkhagvadulam",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=32",
+      "is_followed": false,
+      "follows_count": 37,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "g-lkhagvadulam"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 96
+  },
+  {
+    "id": "617",
+    "title": "Надад өрсөлдөгч үгүй",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=617",
+    "web_link": "https://mplus.mn/@anna-akhmatova/book/nadad-orsoldogc-ugui",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52338/5f1556cb_7b81a2_0.68.jpg",
+    "slug": "nadad-orsoldogc-ugui",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": 7575,
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 505,
+      "title": "Надад өрсөлдөгч үгүй [Унших]",
+      "price": 0,
+      "size": 10961070,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/617/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/617/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "15",
+        "type": "book",
+        "slug": "poetry",
+        "name": "Яруу найраг",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/poetry/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/poetry/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/poetry/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "31",
+      "name": "Анна Ахматова",
+      "title": "Модернист яруу найрагч",
+      "description": "\" Анна Ахматова нь Оросын утга зохиолд тод дуурсагдах эмэгтэй зохиолчдын нэг болох, модернист яруу найрагч Анна Андреевна Горенко (орос. А́нна Андре́евна Горе́нко; укр. А́нна Андрі́ївна Горе́нко)-гийн уран бүтээлийн нэр юм.\nАхматовагийн бүтээлүүд богино хэмжээний шүлгээс эхлээд Сталинист террорт өртөгсдөд зориулсан түүний шилдэг бүтээл болох Реквием (1935–40) зэрэг нарийн төвөгтэй бүтэц бүхий зохиол хүртэл өргөн хүрээг хамардаг. Эдийн засаг, сэтгэлгээний хязгаарлалт дунд амьдарч байсан найрагчийн гайхалтай өвөрмөц онцлог бүхий бүтээлүүд шагшигдсаар байдаг билээ. Түүний уран бүтээлийг хоёр үед хувааж болно - эхэн үе (1912–25), сүүл үе (1936 оны үеэс нас барах хүртэл). Тэр хоорондох арван жил гаруй хугацаанд бараг уран бүтээл туурвиагүй аж. Түүний бүтээлүүд Сталинист эрх баригчдаас буруутгагдаж, цензурт өртөж байсан хэдий ч тэрээр гадагшаа дүрвэлгүй, эх орондоо үлдэж, эргэн тойрондоо болж байсан харгислалын гэрч болсон билээ.\"",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/197/C5ktymVY.jpg",
+      "web_link": "https://mplus.mn/@anna-akhmatova",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=31",
+      "is_followed": false,
+      "follows_count": 9,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "anna-akhmatova"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 63
+  },
+  {
+    "id": "616",
+    "title": "Эцэг эхийн ачлалыг хариулах гэгээн сургаал",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=616",
+    "web_link": "https://mplus.mn/@g-purevbat/book/eceg-exiin-aclalyg-xariulax-gegeen-surgaal",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52336/5f1556c9_c0804b_0.68.jpg",
+    "slug": "eceg-exiin-aclalyg-xariulax-gegeen-surgaal",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "3663",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 504,
+      "title": "Эцэг эхийн ачлалыг хариулах гэгээн сургаал [Унших]",
+      "price": 0,
+      "size": 19096141,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/616/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/616/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "11",
+        "type": "book",
+        "slug": "religion-and-faith",
+        "name": "Шашин, сүсэг бишрэл",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/religion-and-faith/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/religion-and-faith/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/religion-and-faith/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "30",
+      "name": "Г.Пүрэвбат",
+      "title": "Бурханч лам",
+      "description": "\"\"\"Бурханч лам\"\" Ганхүүгийн Пүрэвбат нь (1965 онд Төв аймгийн Борнуурт төрсөн) Монголын шашны зүтгэлтэн.\nТэрээр Дүрслэх урлагийн дунд сургуулийг монгол зургийн мэргэжлээр төгсөж, Урчуудын эвлэлийн хороонд зураачаар аижиллаж байгаад цэргийн алба хаасан. Цэргээс халагдаад Шашны дээд сургуульд элсэн оржээ. Улмаар 1990 онд Энэтхэгийн Дарамсалад очиж 3 жил суралцсан.\"",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/337/PMSFSfxw.jpg",
+      "web_link": "https://mplus.mn/@g-purevbat",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=30",
+      "is_followed": false,
+      "follows_count": 10,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "g-purevbat"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 38
+  },
+  {
+    "id": "615",
+    "title": "Монгол зарчим",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=615",
+    "web_link": "https://mplus.mn/@s-erdenebold/book/mongol-zarcim",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52335/5f1556c7_837566_0.68.jpg",
+    "slug": "mongol-zarcim",
+    "formats": {
+      "interactive": true,
+      "audio": true,
+      "paperback": false
+    },
+    "downloads_count": "7348",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": {
+      "product_id": 136,
+      "title": "Монгол зарчим [Сонсох]",
+      "price": 0,
+      "size": "",
+      "updated_at": "1880",
+      "download_url": "https://mplus.mn/api/books/v3/615/playlist",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 73,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/615/audio_book"
+    },
+    "interactive": {
+      "product_id": 503,
+      "title": "Монгол зарчим [Унших]",
+      "price": 0,
+      "size": 15738109,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/615/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 0,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/615/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "7",
+        "type": "book",
+        "slug": "biography-and-memories",
+        "name": "Намтар, дурсамж",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/biography-and-memories/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/biography-and-memories/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/biography-and-memories/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "38",
+      "name": "С. Эрдэнэболд",
+      "title": "Зохиолч",
+      "description": "\"С.Эрдэнэболд нь МУИС-ийн Хууль зүйн сургуулийг Эрх зүйч мэргэжлээр, АНУ-ын Индианагийн их сургуулийг мөн Эрх зүйч мэргэжлээр тус тус төгссөн бөгөөд 2016 онд Харвардын их сургуулийн Жон Кеннедигийн нэрэмжит Төрийн удирдлагын сургуульд магистрын зэрэг хамгаалсан байна.\n \nТэрээр 2006 онд Ардчилсан намд гишүүнээр элссэн бөгөөд АН-ын хэрэг эрхлэх газар, Хэвлэл, мэдээлэл олон нийттэй харилцах газрын даргаар ажиллаж байсан. \"\"Эзэнт гүрний туульс\"\" номын зохиолч.\"",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/361/0OZ0qs7k.jpg",
+      "web_link": "https://mplus.mn/@s-erdenebold",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=38",
+      "is_followed": false,
+      "follows_count": 92,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "s-erdenebold"
+    },
+    "formatted_listing_price": {
+      "audio": "Үнэгүй",
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 112
+  },
+  {
+    "id": "614",
+    "title": "Автуус ба амьдрал",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=614",
+    "web_link": "https://mplus.mn/@ch-ganjavkhlan/book/avtuus-ba-amdral",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52334/5f1556c4_a5a4b2_0.68.jpg",
+    "slug": "avtuus-ba-amdral",
+    "formats": {
+      "interactive": true,
+      "audio": true,
+      "paperback": false
+    },
+    "downloads_count": 52469,
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": {
+      "product_id": 135,
+      "title": "Автуус ба амьдрал [Сонсох]",
+      "price": 0,
+      "size": "",
+      "updated_at": "1863",
+      "download_url": "https://mplus.mn/api/books/v3/614/playlist",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 17,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/614/audio_book"
+    },
+    "interactive": {
+      "product_id": 502,
+      "title": "Автуус ба амьдрал [Унших]",
+      "price": 0,
+      "size": 52524583,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/614/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 48,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/614/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "7",
+        "type": "book",
+        "slug": "biography-and-memories",
+        "name": "Намтар, дурсамж",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/biography-and-memories/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/biography-and-memories/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/biography-and-memories/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "978-99973-963-2-7",
+    "publisher": {
+      "id": "28",
+      "name": "Ч.Ганжавхлан",
+      "title": "Лантуун дохио ТББ-ын тэргүүн",
+      "description": "“Боорцог ба сарнай” бичвэрийн түүвэр 2013 он\n“Автобус ба амьдрал” 2014 он\nForbes сэтгүүлийн “30 under 30”",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/332/slWliiUc.jpg",
+      "web_link": "https://mplus.mn/@ch-ganjavkhlan",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=28",
+      "is_followed": false,
+      "follows_count": 94,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "ch-ganjavkhlan"
+    },
+    "formatted_listing_price": {
+      "audio": "Үнэгүй",
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 1238
+  },
+  {
+    "id": "613",
+    "title": "Ухаарал",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=613",
+    "web_link": "https://mplus.mn/@b-baterdene/book/uxaaral",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52333/5f1556c2_948b89_0.68.jpg",
+    "slug": "uxaaral",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "8362",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 501,
+      "title": "Ухаарал [Унших]",
+      "price": 0,
+      "size": 14633701,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/613/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 121,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/613/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "14",
+        "type": "book",
+        "slug": "life-and-success",
+        "name": "Амьдрал, амжилт",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/life-and-success/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/life-and-success/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/life-and-success/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "",
+    "publisher": {
+      "id": "27",
+      "name": "Б.Бат-Эрдэнэ",
+      "title": "Зохиолч",
+      "description": "",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/325/ylZDaU1e.jpg",
+      "web_link": "https://mplus.mn/@b-baterdene",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=27",
+      "is_followed": false,
+      "follows_count": 20,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "b-baterdene"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 104
+  },
+  {
+    "id": "611",
+    "title": "Азийн хүлэг улс",
+    "type": "books",
+    "deep_link": "mplus://q?view=detail&type=books&id=611",
+    "web_link": "https://mplus.mn/@l-oyunerdene/book/aziin-xuleg-uls",
+    "cover": "https://ub1.cdn.mplus.mn/images/publication/covers/52332/5f1556bf_7e7c7c_0.68.jpg",
+    "slug": "aziin-xuleg-uls",
+    "formats": {
+      "interactive": true,
+      "audio": false,
+      "paperback": false
+    },
+    "downloads_count": "5825",
+    "description": null,
+    "release_date": "2020-07-21",
+    "series": null,
+    "status": {
+      "is_liked": false
+    },
+    "audio": null,
+    "interactive": {
+      "product_id": 499,
+      "title": "Азийн хүлэг улс [Унших]",
+      "price": 0,
+      "size": 27756972,
+      "updated_at": "2020-07-21",
+      "download_url": "https://mplus.mn/api/publications/611/download?to=read&release_type=books",
+      "can_subscribe": false,
+      "expired_at": "",
+      "can_download": true,
+      "purchased": true,
+      "pages_count": 48,
+      "status": "published",
+      "purchase_link": "http://buy.mplus.mn/book/purchase/611/ebook"
+    },
+    "paperback": null,
+    "tags": [],
+    "categories": [
+      {
+        "id": "12",
+        "type": "book",
+        "slug": "politics-and-society",
+        "name": "Улс төр, нийгэм",
+        "icon": {
+          "sm": "https://mplus.mn/images/categories/politics-and-society/sm.png?v=1",
+          "md": "https://mplus.mn/images/categories/politics-and-society/md.png?v=1",
+          "lg": "https://mplus.mn/images/categories/politics-and-society/lg.png?v=1"
+        }
+      }
+    ],
+    "is_subscribed": null,
+    "isbn": "978-99973-78-50-7",
+    "publisher": {
+      "id": "25",
+      "name": "Л.Оюун-Эрдэнэ",
+      "title": "УИХ гишүүн",
+      "description": "1980 оны зургадугаар сарын 29-ны өдөр Улаанбаатар хотноо төрсөн, МУИС-ийг Эрх зүйч мэргэжлээр төгссөн. Мөн 2005 онд Австрийн Мельбурнийн их сургуульд олон улсын төсөл хөтөлбөрийн менежментийн чиглэлээр суралцаж төгссөн. 2008 онд МУБИС-ийг улс төр судлалаар магистрын зэрэг хамгаалсан. Ажлын тухайд, 2001 онд Хэнтий аймгийн Бэрх сумын Захирагчийн албанд Тамгын газрын дарга, 2002-2007 онд Дэлхийн Зөн ОУБ-ын салбарын захирал, Европ тивийн санхүүжилт хариуцсан бүсийн захирал, Дэлхийн банк, Азийн хөгжлийн банкны төсөл хөтөлбөрт зөвлөх,Филиппин, Тайланд улсад төслийн менежер, мэргэжлийн үнэлээчээр, 2008-2009 онд Нийслэлийн Баянзүрх дүүрэгт Нийгмийн хөгжлийн хэлтсийн даргаар, 2009 оны тавдугаар сараас МАН-ын Удирдах зөвлөлийн хэрэг эрхлэх газарт намын байгуулалтын хэлтсийн даргаар ажиллаж буй. Хувь хүний хөгжил, философи, утга зохиол, угсаатны зүй, түүхийн чиглэлээр таван ном бичсэн. Алсын хараа ном нь 2009 оны шилдэг борлуулалттай номоор шалгарч байсан гээд багагүй түүх намтартай нэгэн.",
+      "cover": "https://ub1.cdn.mplus.mn/images/publisher/photos/324/rkIZOPNd.jpg",
+      "web_link": "https://mplus.mn/@l-oyunerdene",
+      "deep_link": "mplus://q?view=detail&type=publishers&id=25",
+      "is_followed": false,
+      "follows_count": 5,
+      "has_book": true,
+      "has_magazine": false,
+      "has_podcast": false,
+      "slug": "l-oyunerdene"
+    },
+    "formatted_listing_price": {
+      "interactive": "Үнэгүй"
+    },
+    "likes_count": 83
+  }
+]
