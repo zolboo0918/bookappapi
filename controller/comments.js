@@ -4,11 +4,14 @@ const asyncHandler = require("../middleware/asyncHandler");
 const MyError = require("../utils/myError");
 
 exports.writeComment = asyncHandler(async (req, res, next) => {
-  const book = await Book.findById(req.body.bookId);
+  const book = await Book.findById(req.params.id);
   if (!book) {
     throw new MyError("Ном олдсонгүй", 400);
   }
-  const dbComment = await Comment.create(req.body);
+  const dbComment = await Comment.create({
+    ...req.body,
+    bookId: req.params.id,
+  });
 
   await book.updateOne({ $push: { comments: dbComment._id } });
 
@@ -72,7 +75,10 @@ exports.getAllComment = asyncHandler(async (req, res, next) => {
 });
 
 exports.getComment = asyncHandler(async (req, res, next) => {
-  const dbComment = await Comment.find({ _id: req.params.id });
+  const dbComment = await Comment.find({ _id: req.params.id }).populate([
+    "userId",
+    "bookId",
+  ]);
 
   if (!dbComment) {
     throw new MyError("Амжилтгүй", 400);
@@ -82,4 +88,33 @@ exports.getComment = asyncHandler(async (req, res, next) => {
     success: true,
     data: dbComment,
   });
+});
+
+exports.getBookAllComment = asyncHandler(async (req, res, next) => {
+  const id = req.params.id;
+  if (!id) {
+    throw new MyError("Номын ID явуулна уу", 400);
+  }
+
+  const book = await Book.findById(id);
+
+  if (!book) {
+    throw new MyError("Номын мэдээлэл байхгүй байна. ID шалгана уу", 400);
+  }
+
+  const { comments } = book;
+
+  let comms = [];
+
+  comments.forEach(async (element) => {
+    const comm = await Comment.findById(element);
+    comms.push(comm);
+  });
+
+  setTimeout(() => {
+    res.status(200).json({
+      success: true,
+      data: comms,
+    });
+  }, 200);
 });
