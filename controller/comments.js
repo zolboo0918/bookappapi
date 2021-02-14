@@ -116,5 +116,5 @@ exports.getBookAllComment = asyncHandler(async (req, res, next) => {
       success: true,
       data: comms,
     });
-  }, 200);
+  }, 1000);
 });
