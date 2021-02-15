@@ -12,7 +12,7 @@ exports.getBooks = asyncHandler(async (req, res, next) => {
   ["page", "limit", "sort", "select"].forEach((el) => delete req.query[el]);
 
   const pagination = await paginate(page, limit, Book);
-  const books = await Book.find().sort(sort).select(select).limit(limit);
+  const books = await Book.find(req.query, select).sort(sort).limit(limit);
   res.status(200).json({ success: true, data: books, pagination });
   res.end();
 });
