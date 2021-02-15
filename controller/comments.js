@@ -107,7 +107,7 @@ exports.getBookAllComment = asyncHandler(async (req, res, next) => {
   let comms = [];
 
   comments.forEach(async (element) => {
-    const comm = await Comment.findById(element);
+    const comm = await Comment.findById(element).populate("userId");
     comms.push(comm);
   });
 
