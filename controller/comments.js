@@ -1,5 +1,6 @@
 const Comment = require("../model/comment");
 const Book = require("../model/book");
+const User = require("../model/user");
 const asyncHandler = require("../middleware/asyncHandler");
 const MyError = require("../utils/myError");
 
@@ -15,6 +16,8 @@ exports.writeComment = asyncHandler(async (req, res, next) => {
 
   await book.updateOne({ $push: { comments: dbComment._id } });
 
+  const user = await User.findById(req.body.userId);
+
   if (!dbComment) {
     throw new MyError("Амжилтгүй", 400);
   }
@@ -22,6 +25,7 @@ exports.writeComment = asyncHandler(async (req, res, next) => {
   res.status(200).json({
     success: true,
     data: dbComment,
+    user,
   });
 });
 
