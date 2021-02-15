@@ -8,11 +8,20 @@ exports.getBooks = asyncHandler(async (req, res, next) => {
   const limit = parseInt(req.query.limit) || 5;
   const sort = req.query.sort;
   const select = req.query.select;
+  const search = req.query.search || "";
 
-  ["page", "limit", "sort", "select"].forEach((el) => delete req.query[el]);
+  ["page", "limit", "sort", "select", "search"].forEach(
+    (el) => delete req.query[el]
+  );
 
   const pagination = await paginate(page, limit, Book);
-  const books = await Book.find(req.query, select).sort(sort).limit(limit);
+  const books = await Book.find({
+    ...req.query,
+    title: { $regex: search, $options: "i" },
+    select,
+  })
+    .sort(sort)
+    .limit(limit);
   res.status(200).json({ success: true, data: books, pagination });
   res.end();
 });
