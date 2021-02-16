@@ -23,7 +23,6 @@ const BookSchema = new mongoose.Schema({
   },
   isbn: {
     type: String,
-    maxLength: [17, "Номын ISBN кодын урт 17 тэмдэгт байна"],
   },
   publisher: {
     name: {

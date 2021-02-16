@@ -2,6 +2,9 @@ const express = require("express");
 const { getBooks, getBook } = require("../controller/books");
 const { writeComment, getBookAllComment } = require("../controller/comments");
 const { checkToken } = require("../middleware/protect");
+const {
+  getforeignbookAllComment,
+} = require("../controller/foreignbookComments");
 
 const router = express.Router();
 
@@ -12,6 +15,10 @@ router.route("/:id").get(getBook);
 router
   .route("/:id/comments")
   .post(checkToken, writeComment)
-  .get(getBookAllComment);
+  .get(checkToken, getBookAllComment);
+
+router
+  .route("/:id/foreignbookComments")
+  .get(checkToken, getforeignbookAllComment);
 
 module.exports = router;
