@@ -13,7 +13,7 @@ const BookSchema = new mongoose.Schema({
     required: [true, "Номын тайлбарыг оруулна уу"],
     maxLength: [500, "Номын тайлбарын урт дээд тал нь 500 тэмдэгт байх ёстой."],
   },
-  categories: {
+  category: {
     type: String,
     required: [true, "Номын төрлийг оруулна уу"],
   },

@@ -5,7 +5,7 @@ const paginate = require("../utils/paginate");
 
 exports.getBooks = asyncHandler(async (req, res, next) => {
   const page = parseInt(req.query.page) || 1;
-  const limit = parseInt(req.query.limit) || 5;
+  const limit = parseInt(req.query.limit) || 10;
   const sort = req.query.sort;
   const select = req.query.select;
   const search = req.query.search || "";
@@ -15,11 +15,14 @@ exports.getBooks = asyncHandler(async (req, res, next) => {
   );
 
   const pagination = await paginate(page, limit, Book);
-  const books = await Book.find({
-    ...req.query,
-    title: { $regex: search, $options: "i" },
-    select,
-  })
+  console.log("aaaaa", req.query, select);
+  const books = await Book.find(
+    {
+      ...req.query,
+      title: { $regex: search, $options: "i" },
+    },
+    select
+  )
     .sort(sort)
     .limit(limit);
   res.status(200).json({ success: true, data: books, pagination });
@@ -42,4 +45,21 @@ exports.getBook = asyncHandler(async (req, res, next) => {
     success: true,
     data: book,
   });
+});
+
+exports.getCategoryBooks = asyncHandler(async (req, res, next) => {
+  const id = req.params.id;
+
+  let book;
+
+  if (id === "topRated") {
+    book = await Book.find({ rating: { $gt: 4 } });
+  } else if (id === "new") {
+    book = await Book.find().sort({ release_date: -1 }).limit(10);
+  } else if (id === "bestSeller") {
+    book = await Book.find().sort({ $natural: -1 }).limit(10);
+  }
+
+  res.status(200).json({ success: true, data: book });
+  res.end();
 });
