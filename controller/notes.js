@@ -31,10 +31,6 @@ exports.getNote = asyncHandler(async (req, res, next) => {
 });
 
 exports.createNote = asyncHandler(async (req, res, next) => {
-  const book = await Book.findById(req.body.bookId);
-  if (!book) {
-    throw new MyError("Ном олдсонгүй", 400);
-  }
   const dbNote = await Notes.create(req.body);
 
   if (!dbNote) {
@@ -77,7 +73,7 @@ exports.deleteNote = asyncHandler(async (req, res, next) => {
 });
 
 exports.getUserNotes = asyncHandler(async (req, res, next) => {
-  const note = await Notes.find({ userId: req.params.id }).populate("bookId");
+  const note = await Notes.find({ userId: req.params.id });
 
   if (!note) {
     throw new MyError("Тэмдэглэл олдсонгүй", 400);

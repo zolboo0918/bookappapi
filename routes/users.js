@@ -8,6 +8,7 @@ const {
   forgotPassword,
   resetPassword,
   getUser,
+  deleteUser,
 } = require("../controller/users");
 
 const { checkToken } = require("../middleware/protect");
@@ -22,7 +23,11 @@ router.route("/reset-password").post(resetPassword);
 
 router.route("/").get(getUsers);
 
-router.route("/:id").put(checkToken, updateUserInfo).get(checkToken, getUser);
+router
+  .route("/:id")
+  .put(checkToken, updateUserInfo)
+  .get(checkToken, getUser)
+  .delete(deleteUser);
 
 router.route("/:id/notes").get(checkToken, getUserNotes);
 

@@ -98,6 +98,15 @@ exports.getUser = asyncHandler(async (req, res, next) => {
   });
 });
 
+exports.deleteUser = asyncHandler(async (req, res, next) => {
+  const user = await User.findByIdAndDelete(req.params.id);
+
+  res.status(200).json({
+    success: true,
+    data: user,
+  });
+});
+
 exports.forgotPassword = asyncHandler(async (req, res, next) => {
   if (!req.body.email) {
     throw new MyError("Имэйл дамжуулна уу", 400);
