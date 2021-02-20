@@ -4,6 +4,7 @@ const asyncHandler = require("../middleware/asyncHandler");
 const MyError = require("../utils/myError");
 const PasswordResetEmail = require("../utils/email");
 const crypto = require("crypto");
+const sendGridEmailSender = require("../utils/sendGridMailSender");
 
 exports.registerUser = asyncHandler(async (req, res, next) => {
   const data = req.body;
@@ -118,20 +119,25 @@ exports.forgotPassword = asyncHandler(async (req, res, next) => {
     throw new MyError("Хэрэглэгч олдсонгүй");
   }
 
-  const resetToken = user.generateResetPasswordToken();
+  const resetCode = user.generateResetPasswordToken();
 
   await user.save();
 
-  const link = `https://www.zolboo.com/passwordReset/${resetToken}`;
-  PasswordResetEmail({
-    to: "zolboojargalsaikhan9@gmail.com",
-    subject: "Нууц үг сэргээх",
-    html: `<b>Сайн байна уу</b><br><br>Та нууц үг сэргээх хүсэлт гаргасан байна. <br> Доорх линкээр дамжин нууц үгээ сэргээнэ үү.<br><br> <a href=${link}>${link}</a>`,
+  // const link = `https://www.zolboo.com/passwordReset/${resetToken}`;
+  // PasswordResetEmail({
+  //   to: "zolboojargalsaikhan9@gmail.com",
+  //   subject: "Нууц үг сэргээх",
+  //   html: `<b>Сайн байна уу</b><br><br>Та нууц үг сэргээх хүсэлт гаргасан байна. <br> Доорх линкээр дамжин нууц үгээ сэргээнэ үү.<br><br> <a href=${link}>${link}</a>`,
+  // });
+
+  sendGridEmailSender({
+    to: `${req.body.email}`,
+    html: `<b>Сайн байна уу</b><br><br>Та нууц үг сэргээх хүсэлт гаргасан байна. <br> Таний нууц үг сэргээх код: ${resetCode}`,
   });
 
   res.status(200).json({
     success: true,
-    token: resetToken,
+    token: resetCode,
   });
 });
 
@@ -139,13 +145,11 @@ exports.resetPassword = asyncHandler(async (req, res, next) => {
   const { password, token } = req.body;
 
   if (!password || !token) {
-    throw new MyError("Нууц үг, токен дамжуулна уу", 400);
+    throw new MyError("Нууц үг, код дамжуулна уу", 400);
   }
 
-  const encrypted = crypto.createHash("sha256").update(token).digest("hex");
-
   const user = await User.findOne({
-    resetPasswordToken: encrypted,
+    resetPasswordToken: token,
     resetPasswordExpire: { $gt: Date.now() },
   });
 

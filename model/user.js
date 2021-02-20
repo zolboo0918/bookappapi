@@ -56,15 +56,22 @@ UserSchema.methods.checkPassword = async function (password) {
 };
 
 UserSchema.methods.generateResetPasswordToken = function () {
-  const resetToken = crypto.randomBytes(20).toString("hex");
+  // const resetToken = crypto.randomBytes(20).toString("hex");
 
-  this.resetPasswordToken = crypto
-    .createHash("sha256")
-    .update(resetToken)
-    .digest("hex");
+  // this.resetPasswordToken = crypto
+  //   .createHash("sha256")
+  //   .update(resetToken)
+  //   .digest("hex");
 
+  // this.resetPasswordExpire = Date.now() + 10 * 60 * 1000;
+  // return resetToken;
+
+  const resetCode = Math.floor(1000 + Math.random() * 9000);
+
+  this.resetPasswordToken = resetCode;
   this.resetPasswordExpire = Date.now() + 10 * 60 * 1000;
-  return resetToken;
+
+  return resetCode;
 };
 
 module.exports = mongoose.model("User", UserSchema);
