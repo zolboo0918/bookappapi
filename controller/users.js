@@ -137,19 +137,34 @@ exports.forgotPassword = asyncHandler(async (req, res, next) => {
 
   res.status(200).json({
     success: true,
-    token: resetCode,
   });
 });
 
 exports.resetPassword = asyncHandler(async (req, res, next) => {
-  const { password, token } = req.body;
+  const { token, email } = req.body;
 
-  if (!password || !token) {
-    throw new MyError("Нууц үг, код дамжуулна уу", 400);
+  if (!token) {
+    throw new MyError("код дамжуулна уу", 400);
   }
 
   const user = await User.findOne({
+    email: email,
     resetPasswordToken: token,
+    resetPasswordExpire: { $gt: Date.now() },
+  });
+
+  if (!user) {
+    throw new MyError("Токен, Имэйл шалгана уу", 400);
+  }
+
+  res.status(200).json({
+    success: true,
+  });
+});
+
+exports.newPassword = asyncHandler(async (req, res, next) => {
+  const user = await User.findOne({
+    resetPasswordToken: req.body.token,
     resetPasswordExpire: { $gt: Date.now() },
   });
 
@@ -157,7 +172,7 @@ exports.resetPassword = asyncHandler(async (req, res, next) => {
     throw new MyError("Токен хүчингүй байна", 400);
   }
 
-  user.password = password;
+  user.password = req.body.password;
   user.resetPasswordToken = undefined;
   user.resetPasswordExpire = undefined;
 
