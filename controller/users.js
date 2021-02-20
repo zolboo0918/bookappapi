@@ -166,3 +166,28 @@ exports.resetPassword = asyncHandler(async (req, res, next) => {
     token: user.getJWT(),
   });
 });
+
+exports.passwordChange = asyncHandler(async (req, res, next) => {
+  const user = await User.findById(req.params.id).select("+password");
+
+  if (!user) {
+    throw new MyError("Хэрэглэгч олдсонгүй", 400);
+  }
+
+  const ok = await user.checkPassword(req.body.oldPassword);
+  console.log("ok", ok);
+
+  if (!ok) {
+    throw new MyError("Хуучин нууц үг буруу байна", 400);
+  }
+
+  const newPassword = req.body.newPassword;
+
+  user.password = newPassword;
+  await user.save();
+
+  res.status(200).json({
+    success: true,
+    data: user,
+  });
+});

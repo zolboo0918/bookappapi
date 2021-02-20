@@ -9,6 +9,7 @@ const {
   resetPassword,
   getUser,
   deleteUser,
+  passwordChange,
 } = require("../controller/users");
 
 const { checkToken } = require("../middleware/protect");
@@ -20,6 +21,8 @@ router.route("/login").post(loginUser);
 
 router.route("/forgot-password").post(forgotPassword);
 router.route("/reset-password").post(resetPassword);
+
+router.route("/:id/change-password").post(passwordChange);
 
 router.route("/").get(getUsers);
 
