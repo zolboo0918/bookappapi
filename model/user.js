@@ -17,6 +17,7 @@ const UserSchema = new mongoose.Schema({
   phone: {
     type: String,
     required: [true, "Утасны дугаар заавал оруулна уу"],
+    unique: false,
   },
   email: {
     type: String,
