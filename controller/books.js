@@ -57,7 +57,7 @@ exports.getCategoryBooks = asyncHandler(async (req, res, next) => {
   } else if (id === "new") {
     book = await Book.find().sort({ release_date: -1 }).limit(10);
   } else if (id === "bestSeller") {
-    book = await Book.find().sort({ $natural: -1 }).limit(10);
+    book = await Book.find().sort({ $natural: 1 }).limit(10);
   }
 
   res.status(200).json({ success: true, data: book });
