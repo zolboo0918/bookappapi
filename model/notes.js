@@ -8,7 +8,6 @@ const NoteSchema = new mongoose.Schema({
   },
   note: {
     type: String,
-    maxLength: [3000, "Тэмдэглэл хэтэрхий урт байна"],
     required: [true, "Тэмдэглэл оруулна уу"],
   },
   writedAt: {
