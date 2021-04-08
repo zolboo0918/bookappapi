@@ -32,7 +32,6 @@ const BookSchema = new mongoose.Schema({
     },
     description: {
       type: String,
-      maxLength: 200,
     },
     cover: String,
   },
@@ -45,6 +44,7 @@ const BookSchema = new mongoose.Schema({
     type: [mongoose.Schema.ObjectId],
     ref: "Comment",
   },
+  ratingCount: Number,
 });
 
 module.exports = mongoose.model("Book", BookSchema);
