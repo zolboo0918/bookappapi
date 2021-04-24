@@ -11,7 +11,6 @@ const BookSchema = new mongoose.Schema({
   description: {
     type: String,
     required: [true, "Номын тайлбарыг оруулна уу"],
-    maxLength: [500, "Номын тайлбарын урт дээд тал нь 500 тэмдэгт байх ёстой."],
   },
   category: {
     type: String,
