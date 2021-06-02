@@ -34,3 +34,21 @@ exports.getBook = asyncHandler(async (req, res, next) => {
     data: book,
   });
 });
+
+exports.deleteBook = asyncHandler(async (req, res, next) => {
+  const id = req.params.id;
+  if (!id) {
+    throw new MyError("Номын ID явуулна уу", 400);
+  }
+
+  const book = await Book.findByIdAndDelete(id);
+
+  if (!book) {
+    throw new MyError("Номын мэдээлэл байхгүй байна. ID шалгана уу", 400);
+  }
+
+  res.status(200).json({
+    success: true,
+    data: book,
+  });
+});
