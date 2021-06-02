@@ -4,6 +4,7 @@ const asyncHandler = require("../middleware/asyncHandler");
 const MyError = require("../utils/myError");
 const PasswordResetEmail = require("../utils/email");
 const crypto = require("crypto");
+const sendGridEmailSender = require("../utils/sendGridMailSender");
 
 exports.registerUser = asyncHandler(async (req, res, next) => {
   const data = req.body;
@@ -98,6 +99,15 @@ exports.getUser = asyncHandler(async (req, res, next) => {
   });
 });
 
+exports.deleteUser = asyncHandler(async (req, res, next) => {
+  const user = await User.findByIdAndDelete(req.params.id);
+
+  res.status(200).json({
+    success: true,
+    data: user,
+  });
+});
+
 exports.forgotPassword = asyncHandler(async (req, res, next) => {
   if (!req.body.email) {
     throw new MyError("Имэйл дамжуулна уу", 400);
@@ -109,34 +119,52 @@ exports.forgotPassword = asyncHandler(async (req, res, next) => {
     throw new MyError("Хэрэглэгч олдсонгүй");
   }
 
-  const resetToken = user.generateResetPasswordToken();
+  const resetCode = user.generateResetPasswordToken();
 
   await user.save();
 
-  const link = `https://www.zolboo.com/passwordReset/${resetToken}`;
-  PasswordResetEmail({
-    to: "zolboojargalsaikhan9@gmail.com",
-    subject: "Нууц үг сэргээх",
-    html: `<b>Сайн байна уу</b><br><br>Та нууц үг сэргээх хүсэлт гаргасан байна. <br> Доорх линкээр дамжин нууц үгээ сэргээнэ үү.<br><br> <a href=${link}>${link}</a>`,
+  // const link = `https://www.zolboo.com/passwordReset/${resetToken}`;
+  // PasswordResetEmail({
+  //   to: "zolboojargalsaikhan9@gmail.com",
+  //   subject: "Нууц үг сэргээх",
+  //   html: `<b>Сайн байна уу</b><br><br>Та нууц үг сэргээх хүсэлт гаргасан байна. <br> Доорх линкээр дамжин нууц үгээ сэргээнэ үү.<br><br> <a href=${link}>${link}</a>`,
+  // });
+
+  sendGridEmailSender({
+    to: `${req.body.email}`,
+    html: `<b>Сайн байна уу</b><br><br>Та нууц үг сэргээх хүсэлт гаргасан байна. <br> Таний нууц үг сэргээх код: ${resetCode}`,
   });
 
   res.status(200).json({
     success: true,
-    token: resetToken,
   });
 });
 
 exports.resetPassword = asyncHandler(async (req, res, next) => {
-  const { password, token } = req.body;
+  const { token, email } = req.body;
 
-  if (!password || !token) {
-    throw new MyError("Нууц үг, токен дамжуулна уу", 400);
+  if (!token) {
+    throw new MyError("код дамжуулна уу", 400);
   }
 
-  const encrypted = crypto.createHash("sha256").update(token).digest("hex");
-
   const user = await User.findOne({
-    resetPasswordToken: encrypted,
+    email: email,
+    resetPasswordToken: token,
+    resetPasswordExpire: { $gt: Date.now() },
+  });
+
+  if (!user) {
+    throw new MyError("Токен, Имэйл шалгана уу", 400);
+  }
+
+  res.status(200).json({
+    success: true,
+  });
+});
+
+exports.newPassword = asyncHandler(async (req, res, next) => {
+  const user = await User.findOne({
+    resetPasswordToken: req.body.token,
     resetPasswordExpire: { $gt: Date.now() },
   });
 
@@ -144,7 +172,7 @@ exports.resetPassword = asyncHandler(async (req, res, next) => {
     throw new MyError("Токен хүчингүй байна", 400);
   }
 
-  user.password = password;
+  user.password = req.body.password;
   user.resetPasswordToken = undefined;
   user.resetPasswordExpire = undefined;
 
@@ -155,5 +183,30 @@ exports.resetPassword = asyncHandler(async (req, res, next) => {
     success: true,
     user,
     token: user.getJWT(),
+  });
+});
+
+exports.passwordChange = asyncHandler(async (req, res, next) => {
+  const user = await User.findById(req.params.id).select("+password");
+
+  if (!user) {
+    throw new MyError("Хэрэглэгч олдсонгүй", 400);
+  }
+
+  const ok = await user.checkPassword(req.body.oldPassword);
+  console.log("ok", ok);
+
+  if (!ok) {
+    throw new MyError("Хуучин нууц үг буруу байна", 400);
+  }
+
+  const newPassword = req.body.newPassword;
+
+  user.password = newPassword;
+  await user.save();
+
+  res.status(200).json({
+    success: true,
+    data: user,
   });
 });

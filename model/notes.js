@@ -8,7 +8,6 @@ const NoteSchema = new mongoose.Schema({
   },
   note: {
     type: String,
-    maxLength: [3000, "Тэмдэглэл хэтэрхий урт байна"],
     required: [true, "Тэмдэглэл оруулна уу"],
   },
   writedAt: {
@@ -19,9 +18,13 @@ const NoteSchema = new mongoose.Schema({
     type: mongoose.Schema.ObjectId,
     ref: "User",
   },
-  bookId: {
-    type: mongoose.Schema.ObjectId,
-    ref: "Book",
+  bookName: {
+    type: String,
+    required: true,
+  },
+  authorName: {
+    type: String,
+    required: true,
   },
 });
 

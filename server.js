@@ -16,6 +16,8 @@ const bookRoute = require("./routes/books");
 const userRoute = require("./routes/users");
 const noteRoute = require("./routes/notes");
 const commentRoute = require("./routes/comments");
+const foreignbookCommentRoute = require("./routes/foreignBookComments");
+const categoryRoute = require("./routes/category");
 
 dotenv.config({ path: "./config/config.env" });
 
@@ -76,6 +78,8 @@ app.use("/api/v1/notes", noteRoute);
 app.use("/api/v1/books", bookRoute);
 app.use("/api/v1/users", userRoute);
 app.use("/api/v1/comments", commentRoute);
+app.use("/api/v1/foreignbookComments", foreignbookCommentRoute);
+app.use("/api/v1/categories", categoryRoute);
 
 app.use(errorHandler);
 

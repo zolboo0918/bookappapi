@@ -1,50 +1,38 @@
-const Comment = require("../model/comment");
+const ForeignbookComment = require("../model/foreignbookComment");
 const Book = require("../model/book");
 const User = require("../model/user");
 const asyncHandler = require("../middleware/asyncHandler");
 const MyError = require("../utils/myError");
 
 exports.writeComment = asyncHandler(async (req, res, next) => {
-  const book = await Book.findById(req.params.id);
-  if (!book) {
-    throw new MyError("Ном олдсонгүй", 400);
-  }
-  const dbComment = await Comment.create({
-    ...req.body,
-    bookId: req.params.id,
-  });
-
-  await book.updateOne({ $push: { comments: dbComment._id } });
-
   const user = await User.findById(req.body.userId);
 
-  if (!dbComment) {
+  if (!user) {
+    throw new MyError("Хэрэглэгч олдсонгүй", 400);
+  }
+
+  const comm = await ForeignbookComment.create({
+    ...req.body,
+    id: req.params.id,
+  });
+
+  if (!comm) {
     throw new MyError("Амжилтгүй", 400);
   }
 
   res.status(200).json({
     success: true,
-    data: dbComment,
+    data: comm,
     user,
   });
 });
 
 exports.deleteComment = asyncHandler(async (req, res, next) => {
-  const dbComment = await Comment.findById(req.params.id);
+  const dbComment = await ForeignbookComment.findByIdAndDelete(req.params.id);
 
   if (!dbComment) {
     throw new MyError("Амжилтгүй", 400);
   }
-
-  const book = await Book.findByIdAndUpdate(dbComment.bookId, {
-    $pull: { comments: dbComment._id },
-  });
-
-  if (!book) {
-    throw new MyError("Ном олдсонгүй", 400);
-  }
-
-  dbComment.remove();
 
   res.status(200).json({
     success: true,
@@ -53,7 +41,10 @@ exports.deleteComment = asyncHandler(async (req, res, next) => {
 });
 
 exports.updateComment = asyncHandler(async (req, res, next) => {
-  const dbComment = await Comment.findByIdAndUpdate(req.params.id, req.body);
+  const dbComment = await ForeignbookComment.findByIdAndUpdate(
+    req.params.id,
+    req.body
+  );
 
   if (!dbComment) {
     throw new MyError("Амжилтгүй", 400);
@@ -66,7 +57,7 @@ exports.updateComment = asyncHandler(async (req, res, next) => {
 });
 
 exports.getAllComment = asyncHandler(async (req, res, next) => {
-  const dbComment = await Comment.find();
+  const dbComment = await ForeignbookComment.find();
 
   if (!dbComment) {
     throw new MyError("Амжилтгүй", 400);
@@ -79,10 +70,9 @@ exports.getAllComment = asyncHandler(async (req, res, next) => {
 });
 
 exports.getComment = asyncHandler(async (req, res, next) => {
-  const dbComment = await Comment.find({ _id: req.params.id }).populate([
-    "userId",
-    "bookId",
-  ]);
+  const dbComment = await ForeignbookComment.findById(req.params.id).populate(
+    "userId"
+  );
 
   if (!dbComment) {
     throw new MyError("Амжилтгүй", 400);
@@ -94,31 +84,20 @@ exports.getComment = asyncHandler(async (req, res, next) => {
   });
 });
 
-exports.getBookAllComment = asyncHandler(async (req, res, next) => {
+exports.getforeignbookAllComment = asyncHandler(async (req, res, next) => {
   const id = req.params.id;
   if (!id) {
     throw new MyError("Номын ID явуулна уу", 400);
   }
 
-  const book = await Book.findById(id);
+  const book = await ForeignbookComment.find({ id }).populate("userId");
 
   if (!book) {
     throw new MyError("Номын мэдээлэл байхгүй байна. ID шалгана уу", 400);
   }
 
-  const { comments } = book;
-
-  let comms = [];
-
-  comments.forEach(async (element) => {
-    const comm = await Comment.findById(element).populate("userId");
-    comms.push(comm);
+  res.status(200).json({
+    success: true,
+    data: book,
   });
-
-  setTimeout(() => {
-    res.status(200).json({
-      success: true,
-      data: comms,
-    });
-  }, 1000);
 });

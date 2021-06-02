@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 node_modules
+=======
+node_modules
+.gitignoresendgrid.env
+>>>>>>> 83fba71695cfb17da4bd5d80063ee32f6e8efba5

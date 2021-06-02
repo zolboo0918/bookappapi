@@ -11,9 +11,8 @@ const BookSchema = new mongoose.Schema({
   description: {
     type: String,
     required: [true, "Номын тайлбарыг оруулна уу"],
-    maxLength: [500, "Номын тайлбарын урт дээд тал нь 500 тэмдэгт байх ёстой."],
   },
-  categories: {
+  category: {
     type: String,
     required: [true, "Номын төрлийг оруулна уу"],
   },
@@ -23,7 +22,6 @@ const BookSchema = new mongoose.Schema({
   },
   isbn: {
     type: String,
-    maxLength: [17, "Номын ISBN кодын урт 17 тэмдэгт байна"],
   },
   publisher: {
     name: {
@@ -33,7 +31,6 @@ const BookSchema = new mongoose.Schema({
     },
     description: {
       type: String,
-      maxLength: 200,
     },
     cover: String,
   },
@@ -46,6 +43,7 @@ const BookSchema = new mongoose.Schema({
     type: [mongoose.Schema.ObjectId],
     ref: "Comment",
   },
+  ratingCount: Number,
 });
 
 module.exports = mongoose.model("Book", BookSchema);
