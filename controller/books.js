@@ -62,6 +62,8 @@ exports.deleteBook = asyncHandler(async (req, res, next) => {
   res.status(200).json({
     success: "true",
     data: book,
+});
+
 exports.getCategoryBooks = asyncHandler(async (req, res, next) => {
   const id = req.params.id;
 
@@ -79,25 +81,25 @@ exports.getCategoryBooks = asyncHandler(async (req, res, next) => {
   res.end();
 });
 
-exports.setRating = asyncHandler(async (req, res, next) => {
-  const book = await Book.findById(req.params.id);
-  if (!book) {
-    throw new MyError("Ном олдсонгүй", 400);
-  }
-  console.log("book", book);
+// exports.setRating = asyncHandler(async (req, res, next) => {
+//   const book = await Book.findById(req.params.id);
+//   if (!book) {
+//     throw new MyError("Ном олдсонгүй", 400);
+//   }
+//   console.log("book", book);
 
-  if (!book.ratingCount) {
-    book.ratingCount = 1;
-  }
+//   if (!book.ratingCount) {
+//     book.ratingCount = 1;
+//   }
 
-  const ratingCount = book.ratingCount + 1;
-  const rating =
-    (book.rating * book.ratingCount + Number(req.body.rating)) / ratingCount;
+//   const ratingCount = book.ratingCount + 1;
+//   const rating =
+//     (book.rating * book.ratingCount + Number(req.body.rating)) / ratingCount;
 
-  await book.updateOne({ ratingCount, rating });
-  await book.save();
+//   await book.updateOne({ ratingCount, rating });
+//   await book.save();
 
-  res.status(200).json({
-    success: true,
-  });
-});
+//   res.status(200).json({
+//     success: true,
+//   })
+// })
